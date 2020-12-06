@@ -1,3 +1,21 @@
+"""
+synatax: Try/except (+ else,finally)
+
+types of exceptions:
+-ValueError
+-NameError
+-TypeError
+-ZeroDivisionError
+-OSError
+-AssertionEroor
+
+
+"""
+
+
+
+
+
 age = input("what is ur age ")
 
 try:
