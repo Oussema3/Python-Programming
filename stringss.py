@@ -38,3 +38,13 @@ print("where is \"string\" ? :",rand_string.find("string"))
 #replacing words in string
 print(rand_string.replace("an ","a kind of "))
  
+#other function that we can use with caracters 
+letter_z = "z"
+num_3 = "3"
+a_space= " "
+
+print("is z a letter or a number :",letter_z.isalnum())
+print("is z a letter :", letter_z.isalpha())
+print("is z is a lower: ", letter_z.islower())
+print("is z a upeercase: ",letter_z.isupper())
+print("is space a space: ",a_space.isspace())
